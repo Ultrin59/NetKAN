@@ -17,4 +17,5 @@
         "find":       "000_Harmony",
         "install_to": "GameData"
     } ]
+    "depends": [ { "name": "Harmony2" } ],
 }
